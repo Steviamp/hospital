@@ -1,6 +1,0 @@
-@PapageorgiouHospitalQueueSystem_HostAddress = http://localhost:5264
-
-GET {{PapageorgiouHospitalQueueSystem_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
